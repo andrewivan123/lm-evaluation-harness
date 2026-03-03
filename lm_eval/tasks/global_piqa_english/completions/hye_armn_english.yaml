@@ -1,0 +1,3 @@
+dataset_name: hye_armn
+include: _template_english
+task: global_piqa_english_hye_armn

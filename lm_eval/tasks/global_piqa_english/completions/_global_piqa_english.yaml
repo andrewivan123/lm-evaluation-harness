@@ -1,0 +1,241 @@
+group: global_piqa_english
+task:
+  - task: global_piqa_english_acm_arab
+    task_alias: acm_arab_english
+  - task: global_piqa_english_acq_arab
+    task_alias: acq_arab_english
+  - task: global_piqa_english_aeb_arab
+    task_alias: aeb_arab_english
+  - task: global_piqa_english_afb_arab
+    task_alias: afb_arab_english
+  - task: global_piqa_english_als_latn
+    task_alias: als_latn_english
+  - task: global_piqa_english_amh_ethi
+    task_alias: amh_ethi_english
+  - task: global_piqa_english_apc_arab_jord
+    task_alias: apc_arab_jord_english
+  - task: global_piqa_english_apc_arab_leba
+    task_alias: apc_arab_leba_english
+  - task: global_piqa_english_apc_arab_pale
+    task_alias: apc_arab_pale_english
+  - task: global_piqa_english_apc_arab_syri
+    task_alias: apc_arab_syri_english
+  - task: global_piqa_english_arb_arab
+    task_alias: arb_arab_english
+  - task: global_piqa_english_arq_arab
+    task_alias: arq_arab_english
+  - task: global_piqa_english_ars_arab
+    task_alias: ars_arab_english
+  - task: global_piqa_english_ary_arab
+    task_alias: ary_arab_english
+  - task: global_piqa_english_arz_arab
+    task_alias: arz_arab_english
+  - task: global_piqa_english_asm_beng
+    task_alias: asm_beng_english
+  - task: global_piqa_english_azj_latn
+    task_alias: azj_latn_english
+  - task: global_piqa_english_bam_latn
+    task_alias: bam_latn_english
+  - task: global_piqa_english_bel_cyrl
+    task_alias: bel_cyrl_english
+  - task: global_piqa_english_ben_beng
+    task_alias: ben_beng_english
+  - task: global_piqa_english_ben_latn
+    task_alias: ben_latn_english
+  - task: global_piqa_english_bho_deva
+    task_alias: bho_deva_english
+  - task: global_piqa_english_bos_latn
+    task_alias: bos_latn_english
+  - task: global_piqa_english_bsk_arab
+    task_alias: bsk_arab_english
+  - task: global_piqa_english_bul_cyrl
+    task_alias: bul_cyrl_english
+  - task: global_piqa_english_cat_latn
+    task_alias: cat_latn_english
+  - task: global_piqa_english_ces_latn
+    task_alias: ces_latn_english
+  - task: global_piqa_english_ckb_arab
+    task_alias: ckb_arab_english
+  - task: global_piqa_english_ckm_latn
+    task_alias: ckm_latn_english
+  - task: global_piqa_english_cmn_hans
+    task_alias: cmn_hans_english
+  - task: global_piqa_english_cmn_hant
+    task_alias: cmn_hant_english
+  - task: global_piqa_english_deu_latn
+    task_alias: deu_latn_english
+  - task: global_piqa_english_dhd_deva
+    task_alias: dhd_deva_english
+  - task: global_piqa_english_ekk_latn
+    task_alias: ekk_latn_english
+  - task: global_piqa_english_ekp_latn
+    task_alias: ekp_latn_english
+  - task: global_piqa_english_ell_grek
+    task_alias: ell_grek_english
+  - task: global_piqa_english_fao_latn
+    task_alias: fao_latn_english
+  - task: global_piqa_english_fin_latn
+    task_alias: fin_latn_english
+  - task: global_piqa_english_fra_latn_cana
+    task_alias: fra_latn_cana_english
+  - task: global_piqa_english_fra_latn_fran
+    task_alias: fra_latn_fran_english
+  - task: global_piqa_english_glg_latn
+    task_alias: glg_latn_english
+  - task: global_piqa_english_guj_gujr
+    task_alias: guj_gujr_english
+  - task: global_piqa_english_hau_latn
+    task_alias: hau_latn_english
+  - task: global_piqa_english_haw_latn
+    task_alias: haw_latn_english
+  - task: global_piqa_english_heb_hebr
+    task_alias: heb_hebr_english
+  - task: global_piqa_english_hin_deva
+    task_alias: hin_deva_english
+  - task: global_piqa_english_hrv_latn
+    task_alias: hrv_latn_english
+  - task: global_piqa_english_hun_latn
+    task_alias: hun_latn_english
+  - task: global_piqa_english_hye_armn
+    task_alias: hye_armn_english
+  - task: global_piqa_english_ibo_latn
+    task_alias: ibo_latn_english
+  - task: global_piqa_english_idu_latn
+    task_alias: idu_latn_english
+  - task: global_piqa_english_ind_latn
+    task_alias: ind_latn_english
+  - task: global_piqa_english_isl_latn
+    task_alias: isl_latn_english
+  - task: global_piqa_english_iso_latn
+    task_alias: iso_latn_english
+  - task: global_piqa_english_ita_latn
+    task_alias: ita_latn_english
+  - task: global_piqa_english_jav_latn
+    task_alias: jav_latn_english
+  - task: global_piqa_english_jpn_jpan
+    task_alias: jpn_jpan_english
+  - task: global_piqa_english_kan_knda
+    task_alias: kan_knda_english
+  - task: global_piqa_english_kat_geor
+    task_alias: kat_geor_english
+  - task: global_piqa_english_kaz_cyrl
+    task_alias: kaz_cyrl_english
+  - task: global_piqa_english_kin_latn
+    task_alias: kin_latn_english
+  - task: global_piqa_english_kir_cyrl
+    task_alias: kir_cyrl_english
+  - task: global_piqa_english_kor_hang
+    task_alias: kor_hang_english
+  - task: global_piqa_english_lin_latn
+    task_alias: lin_latn_english
+  - task: global_piqa_english_lit_latn
+    task_alias: lit_latn_english
+  - task: global_piqa_english_luo_latn
+    task_alias: luo_latn_english
+  - task: global_piqa_english_mal_mlym
+    task_alias: mal_mlym_english
+  - task: global_piqa_english_mar_deva
+    task_alias: mar_deva_english
+  - task: global_piqa_english_mkd_cyrl
+    task_alias: mkd_cyrl_english
+  - task: global_piqa_english_mni_beng
+    task_alias: mni_beng_english
+  - task: global_piqa_english_mni_mtei
+    task_alias: mni_mtei_english
+  - task: global_piqa_english_nag_latn
+    task_alias: nag_latn_english
+  - task: global_piqa_english_nld_latn
+    task_alias: nld_latn_english
+  - task: global_piqa_english_nno_latn
+    task_alias: nno_latn_english
+  - task: global_piqa_english_nob_latn
+    task_alias: nob_latn_english
+  - task: global_piqa_english_npi_deva
+    task_alias: npi_deva_english
+  - task: global_piqa_english_pan_guru
+    task_alias: pan_guru_english
+  - task: global_piqa_english_pcm_latn
+    task_alias: pcm_latn_english
+  - task: global_piqa_english_pes_arab
+    task_alias: pes_arab_english
+  - task: global_piqa_english_pol_latn
+    task_alias: pol_latn_english
+  - task: global_piqa_english_por_latn_braz
+    task_alias: por_latn_braz_english
+  - task: global_piqa_english_por_latn_port
+    task_alias: por_latn_port_english
+  - task: global_piqa_english_ron_latn
+    task_alias: ron_latn_english
+  - task: global_piqa_english_rus_cyrl
+    task_alias: rus_cyrl_english
+  - task: global_piqa_english_rwr_deva
+    task_alias: rwr_deva_english
+  - task: global_piqa_english_sin_sinh
+    task_alias: sin_sinh_english
+  - task: global_piqa_english_slk_latn
+    task_alias: slk_latn_english
+  - task: global_piqa_english_slk_latn_sari
+    task_alias: slk_latn_sari_english
+  - task: global_piqa_english_slv_latn
+    task_alias: slv_latn_english
+  - task: global_piqa_english_slv_latn_cerk
+    task_alias: slv_latn_cerk_english
+  - task: global_piqa_english_snd_arab
+    task_alias: snd_arab_english
+  - task: global_piqa_english_snd_deva
+    task_alias: snd_deva_english
+  - task: global_piqa_english_spa_latn_mexi
+    task_alias: spa_latn_mexi_english
+  - task: global_piqa_english_spa_latn_peru
+    task_alias: spa_latn_peru_english
+  - task: global_piqa_english_spa_latn_spai
+    task_alias: spa_latn_spai_english
+  - task: global_piqa_english_srp_cyrl
+    task_alias: srp_cyrl_english
+  - task: global_piqa_english_srp_latn
+    task_alias: srp_latn_english
+  - task: global_piqa_english_swe_latn
+    task_alias: swe_latn_english
+  - task: global_piqa_english_swh_latn
+    task_alias: swh_latn_english
+  - task: global_piqa_english_tam_taml
+    task_alias: tam_taml_english
+  - task: global_piqa_english_tel_telu
+    task_alias: tel_telu_english
+  - task: global_piqa_english_tgl_latn
+    task_alias: tgl_latn_english
+  - task: global_piqa_english_tha_thai
+    task_alias: tha_thai_english
+  - task: global_piqa_english_tur_latn
+    task_alias: tur_latn_english
+  - task: global_piqa_english_uig_arab
+    task_alias: uig_arab_english
+  - task: global_piqa_english_ukr_cyrl
+    task_alias: ukr_cyrl_english
+  - task: global_piqa_english_urd_arab
+    task_alias: urd_arab_english
+  - task: global_piqa_english_urd_latn
+    task_alias: urd_latn_english
+  - task: global_piqa_english_urh_latn
+    task_alias: urh_latn_english
+  - task: global_piqa_english_uzn_latn
+    task_alias: uzn_latn_english
+  - task: global_piqa_english_vie_latn
+    task_alias: vie_latn_english
+  - task: global_piqa_english_yor_latn
+    task_alias: yor_latn_english
+  - task: global_piqa_english_yue_hant
+    task_alias: yue_hant_english
+  - task: global_piqa_english_zsm_latn
+    task_alias: zsm_latn_english
+  - task: global_piqa_english_zul_latn
+    task_alias: zul_latn_english
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+    weight_by_size: true
+  - metric: acc_norm
+    aggregation: mean
+    weight_by_size: true
+metadata:
+  version: 1.0

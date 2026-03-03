@@ -1,0 +1,3 @@
+dataset_name: kat_geor
+include: _template_english
+task: global_piqa_english_kat_geor

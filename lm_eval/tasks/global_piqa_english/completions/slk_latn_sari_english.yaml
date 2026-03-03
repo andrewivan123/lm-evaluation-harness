@@ -1,0 +1,3 @@
+dataset_name: slk_latn_sari
+include: _template_english
+task: global_piqa_english_slk_latn_sari

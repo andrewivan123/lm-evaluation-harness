@@ -1,0 +1,3 @@
+dataset_name: dhd_deva
+include: _template_english
+task: global_piqa_english_dhd_deva

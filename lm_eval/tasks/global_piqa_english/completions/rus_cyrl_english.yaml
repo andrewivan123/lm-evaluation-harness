@@ -1,0 +1,3 @@
+dataset_name: rus_cyrl
+include: _template_english
+task: global_piqa_english_rus_cyrl

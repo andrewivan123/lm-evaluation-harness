@@ -1,0 +1,3 @@
+dataset_name: tha_thai
+include: _template_english
+task: global_piqa_english_tha_thai

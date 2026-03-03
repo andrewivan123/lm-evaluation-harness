@@ -1,0 +1,3 @@
+dataset_name: zul_latn
+include: _template_english
+task: global_piqa_english_zul_latn

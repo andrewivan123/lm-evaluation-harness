@@ -1,0 +1,3 @@
+dataset_name: arb_arab
+include: _template_english
+task: global_piqa_english_arb_arab

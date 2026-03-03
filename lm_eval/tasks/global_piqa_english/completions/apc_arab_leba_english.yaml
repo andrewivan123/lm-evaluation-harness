@@ -1,0 +1,3 @@
+dataset_name: apc_arab_leba
+include: _template_english
+task: global_piqa_english_apc_arab_leba

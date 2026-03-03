@@ -1,0 +1,3 @@
+dataset_name: als_latn
+include: _template_english
+task: global_piqa_english_als_latn

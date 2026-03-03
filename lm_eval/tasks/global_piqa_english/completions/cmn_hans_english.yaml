@@ -1,0 +1,3 @@
+dataset_name: cmn_hans
+include: _template_english
+task: global_piqa_english_cmn_hans
